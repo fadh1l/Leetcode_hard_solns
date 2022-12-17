@@ -1,2 +1,2 @@
 # Leetcode_hard_solns
-Backup of hard solns in leetcode
+Backup of hard solutions in leetcode
